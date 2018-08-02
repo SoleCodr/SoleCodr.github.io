@@ -1,3 +1,3 @@
 # SoleCodr.github.io
 Portfolio Website
-- Visit :  [SoleCodr.github.io](SoleCodr.github.io)
+- Visit :  [SoleCodr.tk](SoleCodr.github.io)
